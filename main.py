@@ -1,8 +1,10 @@
-#/usr/bin/python3
+# /usr/bin/python3
+
 
 def main(msg):
-    	//Adding a different comment
-	// Print a message
+    # Another comment
+    # Adding a different comment
+    # Print a message
     print(msg)
     
 main("Hello people")
